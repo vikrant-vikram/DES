@@ -1,7 +1,7 @@
 
 
 
-# <a href="https://github.com/vikrant-vikram/Cryptography/blob/main/Assignment/trivium_cipher.py">  *Trivium Cipher* </a>
+# <a href="https://github.com/vikrant-vikram/DES?tab=readme-ov-file">  *Data Encryption Standard* </a>
 
 <a href="https://en.wikipedia.org/wiki/DES_supplementary_material">DES supplementary material</a>
 
